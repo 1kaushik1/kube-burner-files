@@ -1,0 +1,98 @@
+[
+  {
+    "quantileName": "ContainersReady",
+    "uuid": "9a88b996-d425-4b9a-a7a3-a4f9287055df",
+    "P99": 4827,
+    "P95": 4827,
+    "P50": 4630,
+    "max": 4827,
+    "avg": 4729,
+    "timestamp": "2022-05-31T06:16:13.352357705Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "api-intensive-create"
+  },
+  {
+    "quantileName": "Initialized",
+    "uuid": "9a88b996-d425-4b9a-a7a3-a4f9287055df",
+    "P99": 228,
+    "P95": 228,
+    "P50": 102,
+    "max": 228,
+    "avg": 165,
+    "timestamp": "2022-05-31T06:16:13.352359505Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "api-intensive-create"
+  },
+  {
+    "quantileName": "Ready",
+    "uuid": "9a88b996-d425-4b9a-a7a3-a4f9287055df",
+    "P99": 4827,
+    "P95": 4827,
+    "P50": 4630,
+    "max": 4827,
+    "avg": 4729,
+    "timestamp": "2022-05-31T06:16:13.352360305Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "api-intensive-create"
+  },
+  {
+    "quantileName": "PodScheduled",
+    "uuid": "9a88b996-d425-4b9a-a7a3-a4f9287055df",
+    "P99": 95,
+    "P95": 95,
+    "P50": 31,
+    "max": 95,
+    "avg": 63,
+    "timestamp": "2022-05-31T06:16:13.352361205Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "api-intensive-create"
+  },
+  {
+    "quantileName": "PodScheduled",
+    "uuid": "9a88b996-d425-4b9a-a7a3-a4f9287055df",
+    "P99": 95,
+    "P95": 95,
+    "P50": 31,
+    "max": 95,
+    "avg": 63,
+    "timestamp": "2022-05-31T06:19:51.122547731Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "sdn-intensive-network-policy"
+  },
+  {
+    "quantileName": "ContainersReady",
+    "uuid": "9a88b996-d425-4b9a-a7a3-a4f9287055df",
+    "P99": 4827,
+    "P95": 4827,
+    "P50": 4630,
+    "max": 4827,
+    "avg": 4729,
+    "timestamp": "2022-05-31T06:19:51.122550332Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "sdn-intensive-network-policy"
+  },
+  {
+    "quantileName": "Initialized",
+    "uuid": "9a88b996-d425-4b9a-a7a3-a4f9287055df",
+    "P99": 228,
+    "P95": 228,
+    "P50": 102,
+    "max": 228,
+    "avg": 165,
+    "timestamp": "2022-05-31T06:19:51.122550732Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "sdn-intensive-network-policy"
+  },
+  {
+    "quantileName": "Ready",
+    "uuid": "9a88b996-d425-4b9a-a7a3-a4f9287055df",
+    "P99": 4827,
+    "P95": 4827,
+    "P50": 4630,
+    "max": 4827,
+    "avg": 4729,
+    "timestamp": "2022-05-31T06:19:51.122551032Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "sdn-intensive-network-policy"
+  }
+]

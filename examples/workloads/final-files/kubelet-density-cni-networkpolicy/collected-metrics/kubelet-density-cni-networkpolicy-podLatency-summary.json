@@ -1,0 +1,50 @@
+[
+  {
+    "quantileName": "PodScheduled",
+    "uuid": "c18ff8dd-e9ff-475c-9def-7cf7a2bf0d74",
+    "P99": 66,
+    "P95": 54,
+    "P50": 28,
+    "max": 78,
+    "avg": 30,
+    "timestamp": "2022-05-26T08:52:55.99339048Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "kubelet-density-cni-networkpolicy"
+  },
+  {
+    "quantileName": "ContainersReady",
+    "uuid": "c18ff8dd-e9ff-475c-9def-7cf7a2bf0d74",
+    "P99": 156452,
+    "P95": 155057,
+    "P50": 129654,
+    "max": 157612,
+    "avg": 110277,
+    "timestamp": "2022-05-26T08:52:55.99342288Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "kubelet-density-cni-networkpolicy"
+  },
+  {
+    "quantileName": "Initialized",
+    "uuid": "c18ff8dd-e9ff-475c-9def-7cf7a2bf0d74",
+    "P99": 16837,
+    "P95": 16498,
+    "P50": 7402,
+    "max": 17036,
+    "avg": 7615,
+    "timestamp": "2022-05-26T08:52:55.99344178Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "kubelet-density-cni-networkpolicy"
+  },
+  {
+    "quantileName": "Ready",
+    "uuid": "c18ff8dd-e9ff-475c-9def-7cf7a2bf0d74",
+    "P99": 156452,
+    "P95": 155057,
+    "P50": 129654,
+    "max": 157612,
+    "avg": 110277,
+    "timestamp": "2022-05-26T08:52:55.993460081Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "kubelet-density-cni-networkpolicy"
+  }
+]

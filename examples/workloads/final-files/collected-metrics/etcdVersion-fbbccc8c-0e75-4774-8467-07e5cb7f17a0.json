@@ -1,0 +1,1 @@
+[{"timestamp":"2022-05-26T15:50:36.003Z","labels":{"cluster_version":"3.5"},"value":3,"uuid":"fbbccc8c-0e75-4774-8467-07e5cb7f17a0","query":"sum by (cluster_version)(etcd_cluster_version)","metricName":"etcdVersion","jobName":"remove-cluster-density-namespaces"}]

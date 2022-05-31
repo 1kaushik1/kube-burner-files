@@ -1,0 +1,50 @@
+[
+  {
+    "quantileName": "Ready",
+    "uuid": "ac253a64-b5c4-452d-9be2-1c4395b4eb85",
+    "P99": 11798,
+    "P95": 11307,
+    "P50": 6731,
+    "max": 12167,
+    "avg": 6701,
+    "timestamp": "2022-05-26T17:33:58.282991189Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "api-intensive"
+  },
+  {
+    "quantileName": "PodScheduled",
+    "uuid": "ac253a64-b5c4-452d-9be2-1c4395b4eb85",
+    "P99": 94,
+    "P95": 53,
+    "P50": 21,
+    "max": 98,
+    "avg": 25,
+    "timestamp": "2022-05-26T17:33:58.28300649Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "api-intensive"
+  },
+  {
+    "quantileName": "ContainersReady",
+    "uuid": "ac253a64-b5c4-452d-9be2-1c4395b4eb85",
+    "P99": 11798,
+    "P95": 11307,
+    "P50": 6731,
+    "max": 12167,
+    "avg": 6701,
+    "timestamp": "2022-05-26T17:33:58.28301739Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "api-intensive"
+  },
+  {
+    "quantileName": "Initialized",
+    "uuid": "ac253a64-b5c4-452d-9be2-1c4395b4eb85",
+    "P99": 295,
+    "P95": 196,
+    "P50": 77,
+    "max": 354,
+    "avg": 96,
+    "timestamp": "2022-05-26T17:33:58.28302829Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "api-intensive"
+  }
+]

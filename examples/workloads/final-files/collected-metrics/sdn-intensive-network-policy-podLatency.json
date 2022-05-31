@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2022-05-31T06:16:06.52093569Z",
+    "schedulingLatency": 95,
+    "initializedLatency": 228,
+    "containersReadyLatency": 4827,
+    "podReadyLatency": 4827,
+    "metricName": "podLatencyMeasurement",
+    "jobName": "api-intensive-create",
+    "uuid": "9a88b996-d425-4b9a-a7a3-a4f9287055df",
+    "namespace": "api-intensive-1",
+    "podName": "api-intensive-2-8566549c7f-2c75s",
+    "nodeName": "ip-10-23-214-89.eu-west-2.compute.internal"
+  },
+  {
+    "timestamp": "2022-05-31T06:16:06.68407271Z",
+    "schedulingLatency": 31,
+    "initializedLatency": 102,
+    "containersReadyLatency": 4630,
+    "podReadyLatency": 4630,
+    "metricName": "podLatencyMeasurement",
+    "jobName": "api-intensive-create",
+    "uuid": "9a88b996-d425-4b9a-a7a3-a4f9287055df",
+    "namespace": "api-intensive-1",
+    "podName": "api-intensive-1-79997588fc-mwm97",
+    "nodeName": "ip-10-23-214-89.eu-west-2.compute.internal"
+  }
+]

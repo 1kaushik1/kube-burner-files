@@ -1,0 +1,50 @@
+[
+  {
+    "quantileName": "Ready",
+    "uuid": "b7c5d7b7-7f0c-484e-a845-f124c7f810b3",
+    "P99": 53917,
+    "P95": 50774,
+    "P50": 31518,
+    "max": 53917,
+    "avg": 28214,
+    "timestamp": "2022-05-26T09:09:11.133330673Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "cluster-density"
+  },
+  {
+    "quantileName": "PodScheduled",
+    "uuid": "b7c5d7b7-7f0c-484e-a845-f124c7f810b3",
+    "P99": 87,
+    "P95": 86,
+    "P50": 32,
+    "max": 87,
+    "avg": 41,
+    "timestamp": "2022-05-26T09:09:11.133334673Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "cluster-density"
+  },
+  {
+    "quantileName": "ContainersReady",
+    "uuid": "b7c5d7b7-7f0c-484e-a845-f124c7f810b3",
+    "P99": 53917,
+    "P95": 50774,
+    "P50": 31518,
+    "max": 53917,
+    "avg": 28214,
+    "timestamp": "2022-05-26T09:09:11.133337273Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "cluster-density"
+  },
+  {
+    "quantileName": "Initialized",
+    "uuid": "b7c5d7b7-7f0c-484e-a845-f124c7f810b3",
+    "P99": 45337,
+    "P95": 44228,
+    "P50": 20683,
+    "max": 45337,
+    "avg": 18839,
+    "timestamp": "2022-05-26T09:09:11.133339473Z",
+    "metricName": "podLatencyQuantilesMeasurement",
+    "jobName": "cluster-density"
+  }
+]

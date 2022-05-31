@@ -1,0 +1,28 @@
+[
+  {
+    "timestamp": "2022-05-26T08:34:04.184773439Z",
+    "schedulingLatency": 28,
+    "initializedLatency": 189,
+    "containersReadyLatency": 3365,
+    "podReadyLatency": 3365,
+    "metricName": "podLatencyMeasurement",
+    "jobName": "api-intensive",
+    "uuid": "cdb39beb-416b-4e71-87d2-ba22728c7918",
+    "namespace": "api-intensive-1",
+    "podName": "api-intensive-1-6c786cc8b7-55vzg",
+    "nodeName": "amos-azure-bxhml-worker-eastus2-7s56t"
+  },
+  {
+    "timestamp": "2022-05-26T08:34:04.804604472Z",
+    "schedulingLatency": 34,
+    "initializedLatency": 162,
+    "containersReadyLatency": 3753,
+    "podReadyLatency": 3753,
+    "metricName": "podLatencyMeasurement",
+    "jobName": "api-intensive",
+    "uuid": "cdb39beb-416b-4e71-87d2-ba22728c7918",
+    "namespace": "api-intensive-2",
+    "podName": "api-intensive-1-6c786cc8b7-k5nxk",
+    "nodeName": "amos-azure-bxhml-worker-eastus2-7s56t"
+  }
+]
